@@ -1,14 +1,16 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+Hi 👋 My name is Yerosan Tadesse
+================================
 
-<h2> Hey there! I'm Yerosan.</h2>
+Software Developer
+------------------
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Experienced developer adept at creating web apps with React and Node.js backend. Skilled in AI and machine learning, focusing on object detection and assistance applications.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solution.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a software Developar at Cooperative Bank Of Oromia.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing technology solution on different aspects and cheesing about different technology expreience as hobbies/side hustles.
+*   🌍  I'm based in Addis Ababa
+*   🖥️  See my portfolio at [MyProfile](http://yerosan)
+*   ✉️  You can contact me at [yerosantadee3@gmail.com](mailto:yerosantadee3@gmail.com)
+*   🧠  I'm learning Generative AI,Large Language Model, Promtengineering, LangChain,OpenAI and Hugging Face.
+*   🤝  I'm open to collaborating on Web app developement as well as ML and AI project.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
