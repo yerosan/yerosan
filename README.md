@@ -4,6 +4,11 @@ Hi 👋 My name is Yerosan Tadesse
 Software Developer
 ------------------
 
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 Experienced developer adept at creating web apps with React and Node.js backend. Skilled in AI and machine learning, focusing on object detection and assistance applications.
 
 *   🌍  I'm based in Addis Ababa
