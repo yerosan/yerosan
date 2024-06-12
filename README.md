@@ -9,7 +9,7 @@ Software Developer
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-Experienced developer adept at creating web apps with React and Node.js backend as well as fasapi. Skilled in AI and machine learning, focusing on object detection and assistance applications.
+Experienced developer adept at creating web apps with React and Node.js backend as well as fastapi. Skilled in AI and machine learning, focusing on object detection and assistance applications.
 
 *   🌍  I'm based in Addis Ababa
 *   ✉️  You can contact me at [yerosantadee3@gmail.com](mailto:yerosantadee3@gmail.com)
