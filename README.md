@@ -12,7 +12,6 @@ Software Developer
 Experienced developer adept at creating web apps with React and Node.js backend as well as fastapi. Skilled in AI and machine learning, focusing on object detection and assistance applications.
 
 *   🌍  I'm based in Addis Ababa
-*   ✉️  You can contact me at [yerosantadee3@gmail.com](mailto:yerosantadee3@gmail.com)
 *   🧠  I'm learning Generative AI,Large Language Model, Promtengineering, LangChain,OpenAI and Hugging Face.
 *   🤝  I'm open to collaborating on Web app developement as well as ML and AI project.
 
